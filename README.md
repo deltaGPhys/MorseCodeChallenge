@@ -1,6 +1,6 @@
 # MorseCodeChallenge
 ## Goal
-Your goal is to write one method - `encode()` - that takes a string as input and 
+Your goal is to write one method - `decode()` - that takes a string as input and 
 which returns an English translation of the Morse code contained within.
 
 There are a number of included unit tests; *you may not change any of the tests*.
