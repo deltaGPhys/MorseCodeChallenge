@@ -31,7 +31,7 @@ of short to long sounds, and the sizes of the gaps between sounds, characters, a
 - Only the characters A-Z (there is no case difference in Morse code, so we'll stick 
 with uppercase) and 1-9 are present in the encoded text for our tests
 ## Model Parameters and Assumptions
-- The first few start out easy, with more rigorous assumptions. As the assumptions are removed or relaxed, the method becomes more complex. The more general 
+- The first few start out easy, with more rigorous assumptions. As the assumptions are removed or relaxed, the task becomes more challenging. The more general 
 your method is in dealing with the possible variations, the more tests it will pass
 - At the beginning, "X" indicates a time period during which sound is played, and
 "O" is a time interval of silence
