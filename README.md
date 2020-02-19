@@ -3,7 +3,8 @@
 Your goal is to write one method - `decode()` - that takes a string as input and 
 which returns an English translation of the Morse code contained within.
 
-There are a number of included unit tests; *you may not change any of the tests*.
+There are a number of included unit tests; *you may not change any of the tests or the signature of the `decode()` method*. You may add anything that 
+you wish to the `Decoder` class and/or add other classes.
 
 There are tests of multiple levels of difficulty, from pretty easy to very difficult,
 so don't worry if you don't get them all, or even a majority. We're just curious 
