@@ -28,7 +28,7 @@ of short to long sounds, and the sizes of the gaps between sounds, characters, a
     - space between words: 7 TU
 - Example, with each character representing one time unit: 
     - "HI THERE" -> .\_.\_.\_.\_\_\_.\_.\_\_\_\_\_\_\_---\_\_\_.\_.\_.\_.\_\_\_.\_\_\_.\_---\_.\_\_\_. 
-- Only the characters A-Z (there is now case difference in Morse code, so we'll stick 
+- Only the characters A-Z (there is no case difference in Morse code, so we'll stick 
 with uppercase) and 1-9 are present in the encoded text for our tests
 ## Model Parameters and Assumptions
 - The first few start out easy, with more rigorous assumptions. As the assumptions are removed or relaxed, the method becomes more complex. The more general 
